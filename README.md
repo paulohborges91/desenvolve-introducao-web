@@ -1,3 +1,3 @@
-# desenvolve-introducao-web
-# projeto desenvolve Bom Despacho 
-# Número da matrícula PDBD214
+# Projeto Desenvolve - Bom Despacho
+# Introdução à Programação Web
+# PDBD214
